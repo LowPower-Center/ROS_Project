@@ -1,0 +1,4 @@
+可以使用游戏手柄控制挖掘机移动和机械臂运动 gamepad控制移动和转向,joystick控制机械臂运动
+经测试xboxones手柄可以使用
+需要根据ros版本自行配置驱动
+运行时需预先加载model_spawn_joy.launch

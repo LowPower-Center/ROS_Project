@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="mycar_nav" type="lidar_pub.py" name="lidar_node" output="screen"/>
+</launch>

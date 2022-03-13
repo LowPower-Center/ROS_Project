@@ -1,0 +1,7 @@
+<launch>
+<include file="$(find ros_arduino_python)/launch/arduino.launch" />
+<include file="$(find mycar_description)/launch/car_load.launch" />
+<include file="$(find xv_11_laser_driver)/launch/neato.launch" />
+<!--include file="$(find mycar_nav)/launch/lidar.launch" / -->
+<include file="$(find mycar_nav)/launch/xbox_control.launch" />
+</launch>
