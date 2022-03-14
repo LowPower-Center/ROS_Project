@@ -1,0 +1,3 @@
+<launch>
+<node type="arm_state_pub" name="arm" pkg="auto_arm_control" />
+</launch>
