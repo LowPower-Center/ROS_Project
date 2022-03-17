@@ -6,4 +6,4 @@ ros-noetic-gmapping
 ros-noetic-moveit
 ros-noetic-joint-state-publisher*
 ros-noetic-robot-state-publisher*
-
+ros-noetic-laser-filters*
