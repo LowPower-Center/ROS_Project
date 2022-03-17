@@ -1,0 +1,6 @@
+ros-noetic-urdf
+ros-noetic-xacro
+ros-noetic-navigation
+ros-noetic-joy
+ros-noetic-gmapping
+ros-noetic-moveit
