@@ -4,3 +4,6 @@ ros-noetic-navigation
 ros-noetic-joy
 ros-noetic-gmapping
 ros-noetic-moveit
+ros-noetic-joint-state-publisher*
+ros-noetic-robot-state-publisher*
+
