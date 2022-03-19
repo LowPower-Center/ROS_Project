@@ -19,6 +19,8 @@
 + 3s 2200mah电池
 + arduino mega驱动电机
 + 电机和驱动是TB轮趣科技家(贵，不推荐)的
++ 底层驱动在另外的ROS_arduino_bridge仓库
+
 
 小车的启动文件为slam.launch
 + 整体配置参考autolabor公司文档，地址http://www.autolabor.com.cn/book/ROSTutorials/
