@@ -29,10 +29,10 @@
 + 雷达驱动使用neato雷达的二代驱动，在源码基础上加入了雷达开启和关闭的函数,雷达选用型号为科沃斯lds-006，通讯协议在github上可以查到
 
 
-## 机械臂部分
+## 机械臂部分(auto_arm)
 
 + arduino nano+nano拓展板
-+ 新增arduino下位机程序
++ 新增arduino下位机程序(auto_arm_control.ino)
 + 淘宝六轴机械臂 借的
 + usb摄像头
 
