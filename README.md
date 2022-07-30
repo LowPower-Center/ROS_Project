@@ -32,6 +32,7 @@
 ## 机械臂部分
 
 + arduino nano+nano拓展板
++ 新增arduino下位机程序
 + 淘宝六轴机械臂 借的
 + usb摄像头
 
