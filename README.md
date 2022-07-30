@@ -36,7 +36,7 @@
 + 淘宝六轴机械臂 借的
 + usb摄像头
 
-
+下位机配置程序参考csdn地址为：https://blog.csdn.net/weixin_36002349/article/details/113045122
 机械臂的urdf为sw导出，关节的参考坐标系设定在连接件的地方
 
 
